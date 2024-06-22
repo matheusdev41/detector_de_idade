@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(212, 224, 235);
+}
+
+header {
+    color:black;
+    text-align: center;
+    font: bold 20pt Arial;
+    margin: 10px;
+}
+section {
+    color: black;
+    font: bold 18pt Arial;
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 35px;
+    box-shadow: 8px 8px 8px rgb(131, 126, 126);
+}
+div#ano {
+    width: 600px;
+    display: block;
+    font-size:xx-large;
+}
+div#sexo {
+    margin-top: 20px;
+    font-size:xx-large;
+}
+div#res{
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 235px;
+}
+
+footer {
+
+}
